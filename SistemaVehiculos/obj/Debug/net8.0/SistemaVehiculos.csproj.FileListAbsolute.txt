@@ -1,0 +1,15 @@
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\bin\Debug\net8.0\SistemaVehiculos.exe
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\bin\Debug\net8.0\SistemaVehiculos.deps.json
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\bin\Debug\net8.0\SistemaVehiculos.runtimeconfig.json
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\bin\Debug\net8.0\SistemaVehiculos.dll
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\bin\Debug\net8.0\SistemaVehiculos.pdb
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.AssemblyInfoInputs.cache
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.AssemblyInfo.cs
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.sourcelink.json
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.dll
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\refint\SistemaVehiculos.dll
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.pdb
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\SistemaVehiculos.genruntimeconfig.cache
+C:\Users\kiria\OneDrive\Desktop\TUDAW\Programacion 2\Semana 3\TareaVehiculos\SistemaVehiculos\SistemaVehiculos\obj\Debug\net8.0\ref\SistemaVehiculos.dll
